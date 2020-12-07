@@ -3,7 +3,9 @@
 Projet 1 : Estimateur du prix d'une maison
 Il s'agit de créer un pipeline d'analyse qui montrera l'essentiel du travail d'un analyste de donnée necessaire à la création d'un éstimateur du prix d'une maison en fonction de variables structurelles tel que le nombre de pièces, leur surfaces, le nombre d'étages, etc... 
 
-Le jeu de donnée que nous utilisons est appellé [House Sales In King County, USA](https://www.kaggle.com/harlfoxem/housesalesprediction) il est issu de données réelles provenant de la vente de propriétés dans le compté de King, au Etats Unis Les étapes réalisés sont les suivantes:
+Le jeu de donnée que nous utilisons est appellé [House Sales In King County, USA](https://www.kaggle.com/harlfoxem/housesalesprediction) il est issu de données réelles provenant de la vente de propriétés dans le compté de King, aux Etats Unis.
+
+Les étapes réalisés sont les suivantes:
 
 1. Importer les données depuis une URL
 2. Wrangling de données
