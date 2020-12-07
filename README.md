@@ -10,3 +10,6 @@ Il s'agit de créer un pipeline d'analyse qui montrera l'essentiel du travail d'
 4. Création d'un modèle
 5. Identification des meilleurs prédicteurs pour le prix
 6. Optimisation du modèle
+
+
+Projet 2 :
