@@ -1,7 +1,6 @@
-# DataScienceSkillz
-Data Science Portfolio JDB
+# Portfolio Data Science de Jonathan Derou Bernal
 
-Data Science : [Estimateur du prix d'une maison](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0f94a687-5dc6-4f02-a780-156551a81883/view?access_token=2aa872155574b7a31ac7f25f12949c495788e7b3ec437e38ddf025969b74250e)   
+Projet 1 : [Estimateur du prix d'une maison](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0f94a687-5dc6-4f02-a780-156551a81883/view?access_token=2aa872155574b7a31ac7f25f12949c495788e7b3ec437e38ddf025969b74250e)   
 
 Il s'agit de créer un pipeline d'analyse qui montrera l'essentiel du travail d'un analyste de donnée. Le jeu de donnée que nous utilisons est appellé [House Sales In King County, USA](https://www.kaggle.com/harlfoxem/housesalesprediction) Les étapes réalisés sont les suivantes:
 
