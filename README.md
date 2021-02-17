@@ -25,14 +25,14 @@ Ici on va ré-entrainer le modèle BERT à reconnaitre 6 émotions labelisée su
 
 Les étapes réalisés sont les suivantes:
 
-1.E.D.A
-2.Création des datasets stratifiés (Train, Val, Test)
-3.Encodage des données et Tokenisation
-4.Import et Tuning du modèle bert-base-uncased
-5.Création d'un chargeur de données
-6.Tuning de l'optimiser et du plannificateur
-7.Définition des métriques de performance
-8.Transfert learning
-9.Déploiement/mise en production 
+1. E.D.A
+2. Création des datasets stratifiés (Train, Val, Test)
+3. Encodage des données et Tokenisation
+4. Import et Tuning du modèle bert-base-uncased
+5. Création d'un chargeur de données
+6. Tuning de l'optimiser et du plannificateur
+7. Définition des métriques de performance
+8. Transfert learning
+9. Déploiement/mise en production 
 
 [Lien du notebook : analyse du sentiment par réenforcement de transformers bi-directionels profonds](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5fe31780-ee9f-4f7e-9bca-1fbb2c1353c2/view?access_token=d064a0a40784e165d67f53db87a8bce243ee55a33d3fdbdddd97acaba9730197) 
