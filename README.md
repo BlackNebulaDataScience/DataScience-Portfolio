@@ -35,4 +35,4 @@ Les étapes réalisés sont les suivantes:
 8. Transfert learning
 9. Déploiement/mise en production 
 
-[Lien du notebook : analyse du sentiment par réenforcement de transformers bi-directionels profonds](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5fe31780-ee9f-4f7e-9bca-1fbb2c1353c2/view?access_token=d064a0a40784e165d67f53db87a8bce243ee55a33d3fdbdddd97acaba9730197) 
+[Lien du projet : analyse du sentiment par réenforcement de transformers bi-directionels profonds](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5fe31780-ee9f-4f7e-9bca-1fbb2c1353c2/view?access_token=d064a0a40784e165d67f53db87a8bce243ee55a33d3fdbdddd97acaba9730197) 
