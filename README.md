@@ -2,7 +2,7 @@
 
 
 
-##### Projet 1 : Estimateur du prix d'une maison
+#### Projet 1 : Estimateur du prix d'une maison
 
 Il s'agit de créer un pipeline d'analyse qui montrera l'essentiel du travail d'un analyste de donnée necessaire à la création d'un éstimateur du prix d'une maison en fonction de variables structurelles tel que le nombre de pièces, leur surfaces, le nombre d'étages, etc... 
 
@@ -19,7 +19,7 @@ Les étapes réalisés sont les suivantes:
 
 [Lien du projet : estimateur du prix d'une maison](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0f94a687-5dc6-4f02-a780-156551a81883/view?access_token=2aa872155574b7a31ac7f25f12949c495788e7b3ec437e38ddf025969b74250e)   
 
-##### Projet 2 : Sentiment analysis - transfert learning de BERT
+#### Projet 2 : Sentiment analysis - transfert learning de BERT
 
 Ici on va ré-entrainer le modèle BERT à reconnaitre 6 émotions labelisée sur le dataset [Smile emotion dataset final](https://figshare.com/articles/dataset/smile_annotations_final_csv/3187909). Ce dataset se compose de 3085 tweet en anglais.
 
