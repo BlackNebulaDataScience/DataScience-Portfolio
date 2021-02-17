@@ -35,4 +35,6 @@ Les étapes réalisés sont les suivantes:
 8. Transfert learning
 9. Déploiement/mise en production 
 
+N.b. : Les modèles n'ont pas été générés. Si vous souhaitez le faire cela vous prendra environ 12mn par "epoch" sur 16Gb de RAM processeur 2,4Ghz. Les paramètre du Fine Tuning de l'entrainement sont réglés sur 50 "epoch". Le meilleur résultat apparait à la 32ème.
+
 [Lien du projet : analyse du sentiment par réenforcement de transformers bi-directionels profonds](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5fe31780-ee9f-4f7e-9bca-1fbb2c1353c2/view?access_token=d064a0a40784e165d67f53db87a8bce243ee55a33d3fdbdddd97acaba9730197) 
