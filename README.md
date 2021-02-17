@@ -2,7 +2,7 @@
 
 
 
-Projet 1 : Estimateur du prix d'une maison
+<u>Projet 1 : Estimateur du prix d'une maison<\u>
 
 Il s'agit de créer un pipeline d'analyse qui montrera l'essentiel du travail d'un analyste de donnée necessaire à la création d'un éstimateur du prix d'une maison en fonction de variables structurelles tel que le nombre de pièces, leur surfaces, le nombre d'étages, etc... 
 
