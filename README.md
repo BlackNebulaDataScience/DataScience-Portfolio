@@ -2,7 +2,7 @@
 
 
 
-## Projet 1 : Estimateur du prix d'une maison
+## Projet 1 : Estimateur du prix d'une maison - Regression Task
 
 Il s'agit de créer un pipeline d'analyse qui montrera l'essentiel du travail d'un analyste de donnée necessaire à la création d'un éstimateur du prix d'une maison en fonction de variables structurelles tel que le nombre de pièces, leur surfaces, le nombre d'étages, etc... 
 
@@ -40,4 +40,4 @@ N.b. : Les modèles n'ont pas été générés. Si vous souhaitez le faire cela 
 [Lien du projet : analyse du sentiment par réenforcement de transformers bi-directionels profonds](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5fe31780-ee9f-4f7e-9bca-1fbb2c1353c2/view?access_token=d064a0a40784e165d67f53db87a8bce243ee55a33d3fdbdddd97acaba9730197) 
 
 
-#### Projet 3 : Work in progress...
+## Projet 3 : Telecomunication Client Churn Detector - Decision tree algo
